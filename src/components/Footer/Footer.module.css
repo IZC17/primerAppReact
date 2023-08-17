@@ -1,0 +1,22 @@
+.footer {
+background-color: #333;
+color: white;
+padding: 20px 0;
+text-align: center;
+}
+
+.social {
+    margin-top: 15px;
+}
+
+.social a {
+    color: white;
+    font-size: 18px;
+    margin: 0 10px;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.social a:hover {
+    color: cyan;
+}
